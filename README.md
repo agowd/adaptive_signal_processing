@@ -39,7 +39,7 @@ Key features include:
 ### Running the Code
 1. Clone this repository:
    ```bash
-   git clone [<repo-url>](https://github.com/agowd/adaptive_signal_processing.git)
+   git clone https://github.com/agowd/adaptive_signal_processing.git
    ```
 2. Open MATLAB and navigate to the repository folder.
 3. Run the scripts:
