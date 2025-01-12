@@ -1,6 +1,6 @@
 # Adaptive Signal Processing
 
-This repository contains MATLAB implementations of two adaptive signal processing systems developed for an academic project in ESE 5310:
+This repository contains MATLAB implementations of two adaptive signal processing systems developed for an academic project:
 
 - **Adaptive Notch Filter** (Part A)
 - **Adaptive Equalizer** (Part B)
