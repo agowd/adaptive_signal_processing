@@ -39,7 +39,7 @@ Key features include:
 ### Running the Code
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/agowd/adaptive_signal_processing.git)
    ```
 2. Open MATLAB and navigate to the repository folder.
 3. Run the scripts:
@@ -52,9 +52,6 @@ Key features include:
 ## Authors
 - Aditya Gowd @agowd
 - Varun Trivedi @vtriv
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Dr. Khanna, ESE 5310 Instructor
